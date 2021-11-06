@@ -4,9 +4,6 @@
 <artifactPageExtension value="-definitions"/>
 <artifactPageExtension value="-examples"/>
 <artifactPageExtension value="-mappings"/>
-<artifact id="Measure/RAModelExample02" key="Measure-RAModelExample02" name="CMS Hiearchical Category Condition (CMS-HCC) Risk Adjustment Model Version 21"/>
-<artifact id="Measure/RAModelExample01" key="Measure-RAModelExample01" name="CMS Hiearchical Category Condition (CMS-HCC) Risk Adjustment Model Version 24"/>
-<artifact id="Measure/RAModelExample03" key="Measure-RAModelExample03" name="CMS Prescribing Drug Hiearchical Category Condition (CMS-HCC) Risk Adjustment Model Version 5"/>
 <artifact id="Condition/ra-condition01" key="Condition-ra-condition01" name="Condition01: Type 2 diabetes with unspecified manisfestations"/>
 <artifact id="Condition/ra-condition01pat03" key="Condition-ra-condition01pat03" name="Condition01pat03: Other artificial openings of gastrointestinal tract status"/>
 <artifact id="Condition/ra-condition02" key="Condition-ra-condition02" name="Condition02: Major Depressive Disorder, Single episode"/>
@@ -48,6 +45,9 @@
 <artifact id="CodeSystem/hiearchical-status" key="CodeSystem-hiearchical-status" name="Risk Adjustment Hiearchical Status Code System"/>
 <artifact id="ValueSet/hiearchical-status" key="ValueSet-hiearchical-status" name="Risk Adjustment Hiearchical Status Value Set"/>
 <artifact id="StructureDefinition/ra-model-measure" key="StructureDefinition-ra-model-measure" name="Risk Adjustment Model Measure"/>
+<artifact id="Measure/RAModelExample02" key="Measure-RAModelExample02" name="Risk Adjustment Model Version 21 - CMS Hiearchical Category Condition (CMS-HCC)"/>
+<artifact id="Measure/RAModelExample01" key="Measure-RAModelExample01" name="Risk Adjustment Model Version 24 - CMS Hiearchical Category Condition (CMS-HCC)"/>
+<artifact id="Measure/RAModelExample03" key="Measure-RAModelExample03" name="Risk Adjustment Model Version 5 - CMS Prescribing Drug Hiearchical Category Condition (CMS-HCC)"/>
 <artifact id="CapabilityStatement/ra-server" key="CapabilityStatement-ra-server" name="Risk Adjustment Server Capability Statement"/>
 <artifact id="CodeSystem/suspect-type" key="CodeSystem-suspect-type" name="Risk Adjustment Suspect Type Code System"/>
 <artifact id="StructureDefinition/ra-suspectType" key="StructureDefinition-ra-suspectType" name="Risk Adjustment Suspect Type Extension"/>
